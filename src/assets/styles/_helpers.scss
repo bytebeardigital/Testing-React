@@ -1,0 +1,15 @@
+//HELPERS
+.accent {
+  font-family: $accent-font;
+}
+
+.overview--heading {
+  margin-bottom: 12px !important;
+  text-align: left !important;
+}
+
+//HIDDEN
+.hidden {
+  display: none !important;
+  transition: all ease-in-out;
+}
